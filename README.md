@@ -6,6 +6,7 @@ A curated list of amazingly awesome financial libraries, resources and shiny thi
 
 - [Charts](#charts)
 - [Libraries](#libraries)
+  - [Go](#go)
   - [Java](#java)
   - [Javascript](#javascript)
   - [Objective-C](#objective-c)
@@ -24,6 +25,10 @@ A curated list of amazingly awesome financial libraries, resources and shiny thi
 * [TradingView](https://www.tradingview.com/HTML5-stock-forex-bitcoin-charting-library/) - Stock Charting Library.
 
 ## Libraries
+
+### Go
+* [accounting](https://github.com/leekchan/accounting) - Money and currency formatting for golang.
+* [decimal](https://github.com/shopspring/decimal) - Arbitrary-precision fixed-point decimal numbers in go.
 
 ### Java
 * [TA-Lib](https://github.com/BYVoid/TA-Lib) - Technical Analysis Library (Java Maven mirror).
