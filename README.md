@@ -35,6 +35,8 @@ A curated list of amazingly awesome financial libraries, resources and shiny thi
 * [XChange](https://github.com/timmolter/XChange) - XChange is a Java library providing a streamlined API for interacting with 50+ Bitcoin and Altcoin exchanges providing a consistent interface for trading and accessing market data.
 
 ### Javascript
+* [accounting.js](https://github.com/openexchangerates/accounting.js) - A lightweight JavaScript library for number, money and currency formatting - fully localisable, zero dependencies.
+* [money.js](https://github.com/openexchangerates/money.js) - A tiny (1kb) javascript currency conversion library, for web & nodeJS.
 * [node-yahoo-finance](https://github.com/pilwon/node-yahoo-finance) - Yahoo Finance historical quotes and snapshot data downloader written in Node.js.
 
 ### Objective-C
