@@ -6,12 +6,16 @@ A curated list of amazingly awesome financial libraries, resources and shiny thi
 
 - [Charts](#charts)
 - [Libraries](#libraries)
+  - [C++](#c++)
   - [Go](#go)
   - [Java](#java)
   - [Javascript](#javascript)
+  - [Lisp](#lisp)
+  - [.Net](#net)
   - [Objective-C](#objective-c)
   - [PHP](#php)
   - [Python](#python)
+  - [R](#r)
   - [Ruby](#ruby)
   - [Others](#others)
 - [Books](#books)
@@ -26,18 +30,29 @@ A curated list of amazingly awesome financial libraries, resources and shiny thi
 
 ## Libraries
 
+### C++
+* [fredcpp](https://github.com/nomadbyte/fredcpp) - FRED API Client for C++.
+
 ### Go
 * [accounting](https://github.com/leekchan/accounting) - Money and currency formatting for golang.
 * [decimal](https://github.com/shopspring/decimal) - Arbitrary-precision fixed-point decimal numbers in go.
 
 ### Java
+* [Coherent Logic FRED Client](http://www.coherentlogic.com/wordpress/?page_id=1362)
 * [TA-Lib](https://github.com/BYVoid/TA-Lib) - Technical Analysis Library (Java Maven mirror).
 * [XChange](https://github.com/timmolter/XChange) - XChange is a Java library providing a streamlined API for interacting with 50+ Bitcoin and Altcoin exchanges providing a consistent interface for trading and accessing market data.
 
 ### Javascript
 * [accounting.js](https://github.com/openexchangerates/accounting.js) - A lightweight JavaScript library for number, money and currency formatting - fully localisable, zero dependencies.
+* [fredApi](https://github.com/Rleahy22/fredApi) - Javascript wrapper for FRED (Federal Reserve Economic Database) API.
 * [money.js](https://github.com/openexchangerates/money.js) - A tiny (1kb) javascript currency conversion library, for web & nodeJS.
 * [node-yahoo-finance](https://github.com/pilwon/node-yahoo-finance) - Yahoo Finance historical quotes and snapshot data downloader written in Node.js.
+
+### Lisp
+* [CommonLispFred](https://github.com/plkrueger/CommonLispFred) - Lisp Interface to Federal Reserve Economic Data (FRED®).
+
+### .Net
+* [Xaye.Fred](https://github.com/cuda/Xaye.Fred) - .NET wrapper for the St. Louis Federal Reserve Economic Data (FRED) API.
 
 ### Objective-C
 * [JCStockGraph](https://github.com/jconst/JCStockGraph) - An easy way to show historical price graphs for any stock in your iOS app.
@@ -48,6 +63,8 @@ A curated list of amazingly awesome financial libraries, resources and shiny thi
 
 ### Python
 * [china-stock](https://github.com/fuermosi777/china-stock) - Python module to get stock info from Chinese SH & SZ stock exchanges.
+* [fred](https://github.com/zachwill/fred) - Python wrapper for the St. Louis Fed's FRED API.
+* [fredapi](https://github.com/mortada/fredapi) - Python API for FRED (Federal Reserve Economic Data) and ALFRED (Archival FRED)
 * [googlefinance](https://github.com/hongtaocai/googlefinance) - Python module to get real-time stock data from Google Finance API.
 * [money](https://github.com/carlospalol/money) - Python money class with optional CLDR-backed locale-aware formatting and an extensible currency exchange solution.
 * [pyfolio](https://github.com/quantopian/pyfolio) - Portfolio and risk analytics in Python.
@@ -56,10 +73,15 @@ A curated list of amazingly awesome financial libraries, resources and shiny thi
 * [ystockquote](https://github.com/cgoldberg/ystockquote) - Retrieve stock quote data from Yahoo Finance (Python module).
 * [zipline](https://github.com/quantopian/zipline) - Zipline, a Pythonic Algorithmic Trading Library.
 
+### R
+* [FredR](https://github.com/jcizel/FredR) - R Interface to Federal Reserve Economic Data API.
+
 ### Ruby
 * [finance](https://github.com/wkranec/finance) - A library for financial calculations in Ruby.
-* [yahoo-finance](https://github.com/herval/yahoo-finance) - Ruby's Yahoo Finance Wrapper.
+* [fred](https://github.com/phuphighter/fred) - Ruby wrapper for the St. Louis Federal Reserve Economic Data (FRED) API.
+* [fredapi](https://github.com/jonathanchrisp/fredapi) - A Ruby wrapper for the Federal Reserve Economic Data API (FRED).
 * [money](https://github.com/RubyMoney/money) - A Ruby Library for dealing with money and currency conversion.
+* [yahoo-finance](https://github.com/herval/yahoo-finance) - Ruby's Yahoo Finance Wrapper.
 
 ### Others
 * [payment-webfont](https://github.com/orlandotm/payment-webfont) - An SVG webfont full of main payment system icons.
