@@ -62,6 +62,7 @@ A curated list of amazingly awesome financial libraries, resources and shiny thi
 * [yahoo-finance-query](https://github.com/dirkolbrich/yahoo-finance-query) - A PHP class to query the Yahoo Finance API.
 
 ### Python
+* [alpha-vantage](https://github.com/RomelTorres/alpha_vantage) - Python wrapper to get stock, ETF, mutual fund, forex, and crypotocurrency information from [Alpha Vantage](https://www.alphavantage.co/), a Y Combinator backed fintech company. 
 * [china-stock](https://github.com/fuermosi777/china-stock) - Python module to get stock info from Chinese SH & SZ stock exchanges.
 * [fred](https://github.com/zachwill/fred) - Python wrapper for the St. Louis Fed's FRED API.
 * [fredapi](https://github.com/mortada/fredapi) - Python API for FRED (Federal Reserve Economic Data) and ALFRED (Archival FRED)
