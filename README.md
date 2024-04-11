@@ -89,6 +89,7 @@ A curated list of amazingly awesome financial libraries, resources and shiny thi
 
 ## Books
 * [Advanced Quantitative Finance with C++](http://shop.oreilly.com/product/9781782167228.do) - By Alonso Pena.
+* [Build Financial Software with Generative AI](https://www.manning.com/books/build-financial-software-with-generative-ai?ar=false&lpse=B&) - By Chris Kardell and Mark Brouwer.
 * [DevOps for Finance](http://www.oreilly.com/webops-perf/free/devops-for-finance.csp) - Reducing Risk through Continuous Delivery, by Jim Bird.
 * [F# for Quantitative Finance](http://shop.oreilly.com/product/9781782164623.do) - By Johan Astborg.
 * [Hadoop for Finance Essentials](http://shop.oreilly.com/product/9781784395162.do) - By Rajiv Tiwari.
