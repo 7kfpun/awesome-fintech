@@ -17,7 +17,7 @@ A curated list of amazingly awesome financial libraries, resources and shiny thi
   - [Python](#python)
   - [R](#r)
   - [Ruby](#ruby)
-  - [TypeScript(#typescript)
+  - [TypeScript](#typescript)
   - [Others](#others)
 - [Books](#books)
 
