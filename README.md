@@ -17,6 +17,7 @@ A curated list of amazingly awesome financial libraries, resources and shiny thi
   - [Python](#python)
   - [R](#r)
   - [Ruby](#ruby)
+  - [TypeScript(#typescript)
   - [Others](#others)
 - [Books](#books)
 
@@ -36,6 +37,7 @@ A curated list of amazingly awesome financial libraries, resources and shiny thi
 ### Go
 * [accounting](https://github.com/leekchan/accounting) - Money and currency formatting for golang.
 * [decimal](https://github.com/shopspring/decimal) - Arbitrary-precision fixed-point decimal numbers in go.
+* [Indicator](https://github.com/cinar/indicator) - A Go library delivering a rich set of technical analysis indicators, customizable strategies, and a powerful backtesting framework.
 
 ### Java
 * [Coherent Logic FRED Client](http://www.coherentlogic.com/wordpress/?page_id=1362)
@@ -83,6 +85,9 @@ A curated list of amazingly awesome financial libraries, resources and shiny thi
 * [fredapi](https://github.com/jonathanchrisp/fredapi) - A Ruby wrapper for the Federal Reserve Economic Data API (FRED).
 * [money](https://github.com/RubyMoney/money) - A Ruby Library for dealing with money and currency conversion.
 * [yahoo-finance](https://github.com/herval/yahoo-finance) - Ruby's Yahoo Finance Wrapper.
+
+### TypeScript
+* [Indicator TS](https://github.com/cinar/indicatorts) - A TypeScript library delivering a rich set of technical analysis indicators, customizable strategies, and a powerful backtesting framework.
 
 ### Others
 * [payment-webfont](https://github.com/orlandotm/payment-webfont) - An SVG webfont full of main payment system icons.
