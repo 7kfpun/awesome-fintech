@@ -93,6 +93,7 @@ A curated list of amazingly awesome financial libraries, resources and shiny thi
 * [Build Financial Software with Generative AI](https://www.manning.com/books/build-financial-software-with-generative-ai?ar=false&lpse=B&) - By Chris Kardell and Mark Brouwer.
 * [DevOps for Finance](http://www.oreilly.com/webops-perf/free/devops-for-finance.csp) - Reducing Risk through Continuous Delivery, by Jim Bird.
 * [F# for Quantitative Finance](http://shop.oreilly.com/product/9781782164623.do) - By Johan Astborg.
+* [Financial AI in Practice](https://www.manning.com/books/financial-ai-in-practice) - By Taehun Kim.
 * [Hadoop for Finance Essentials](http://shop.oreilly.com/product/9781784395162.do) - By Rajiv Tiwari.
 * [Introduction to R for Quantitative Finance](http://shop.oreilly.com/product/9781783280933.do) - By Gergely Daróczi, Michael Puhle, Edina Berlinger, Péter Csóka, Daniel Havran, Márton Michaletzky, Zsolt Tulassay, Kata Váradi, Agnes Vidovics-Dancs.
 * [Mastering pandas for Finance](http://shop.oreilly.com/product/9781783985104.do) - By Michael Heydt.
