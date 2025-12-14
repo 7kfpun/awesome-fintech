@@ -86,6 +86,7 @@ A curated list of amazingly awesome financial libraries, resources and shiny thi
 * [yahoo-finance](https://github.com/herval/yahoo-finance) - Ruby's Yahoo Finance Wrapper.
 
 ### Others
+* [Ghostfolio](https://ghostfol.io) - Web-based open source wealth management software written in TypeScript.
 * [payment-webfont](https://github.com/orlandotm/payment-webfont) - An SVG webfont full of main payment system icons.
 
 ## Books
