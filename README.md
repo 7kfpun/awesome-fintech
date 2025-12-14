@@ -86,6 +86,7 @@ A curated list of amazingly awesome financial libraries, resources and shiny thi
 * [yahoo-finance](https://github.com/herval/yahoo-finance) - Ruby's Yahoo Finance Wrapper.
 
 ### Others
+* [Financial Data](https://financialdata.net/documentation) - Stock Market and Financial Data (API, Data Viewer, Excel Export).
 * [payment-webfont](https://github.com/orlandotm/payment-webfont) - An SVG webfont full of main payment system icons.
 
 ## Books
