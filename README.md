@@ -99,6 +99,7 @@ A curated list of amazingly awesome financial libraries, resources and shiny thi
 * [Mastering pandas for Finance](http://shop.oreilly.com/product/9781783985104.do) - By Michael Heydt.
 * [Mastering Python for Finance](http://shop.oreilly.com/product/9781784394516.do) - By James Ma Weiming.
 * [Mastering R for Quantitative Finance](http://shop.oreilly.com/product/9781783552078.do) - By Edina Berlinger, Ferenc Illes, Milan Badics, Adam Banai, Gergely Daróczi, Barbara Domotor, Gergely Gabler, Daniel Havran, Peter Juhasz, Istvan Margitai, Balazs Markus, Peter Medvegyev, Julia Molnar, Balazs Arpad Szucs, Agnes Tuza, Tamas Vadasz, Kata Váradi, Agnes Vidovics-Dancs.
+* [Practical FinOps](https://www.manning.com/books/practical-finops) - By Mohamed Labouardy.
 * [Python for Finance](http://shop.oreilly.com/product/0636920032441.do) - Analyze Big Financial Data, By Yves Hilpisch.
 
 # License
