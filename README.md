@@ -94,6 +94,7 @@ A curated list of amazingly awesome financial libraries, resources and shiny thi
 * [DevOps for Finance](http://www.oreilly.com/webops-perf/free/devops-for-finance.csp) - Reducing Risk through Continuous Delivery, by Jim Bird.
 * [F# for Quantitative Finance](http://shop.oreilly.com/product/9781782164623.do) - By Johan Astborg.
 * [Financial AI in Practice](https://www.manning.com/books/financial-ai-in-practice) - By Taehun Kim.
+* [KeepRule](https://keeprule.com/) - A curated library of decision-making principles and investment wisdom from masters like Buffett, Munger, and Dalio.
 * [Hadoop for Finance Essentials](http://shop.oreilly.com/product/9781784395162.do) - By Rajiv Tiwari.
 * [Introduction to R for Quantitative Finance](http://shop.oreilly.com/product/9781783280933.do) - By Gergely Daróczi, Michael Puhle, Edina Berlinger, Péter Csóka, Daniel Havran, Márton Michaletzky, Zsolt Tulassay, Kata Váradi, Agnes Vidovics-Dancs.
 * [Mastering pandas for Finance](http://shop.oreilly.com/product/9781783985104.do) - By Michael Heydt.
