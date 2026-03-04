@@ -46,6 +46,7 @@ A curated list of amazingly awesome financial libraries, resources and shiny thi
 ### Javascript
 * [accounting.js](https://github.com/openexchangerates/accounting.js) - A lightweight JavaScript library for number, money and currency formatting - fully localisable, zero dependencies.
 * [fredApi](https://github.com/Rleahy22/fredApi) - Javascript wrapper for FRED (Federal Reserve Economic Database) API.
+* [igotfomo-ticker-widget](https://igotfomo.com/widgets/) - Free embeddable live stock ticker widget with Shadow DOM isolation, dual themes, and real-time prices for indices and crypto. Zero dependencies, one-line embed.
 * [money.js](https://github.com/openexchangerates/money.js) - A tiny (1kb) javascript currency conversion library, for web & nodeJS.
 * [node-yahoo-finance](https://github.com/pilwon/node-yahoo-finance) - Yahoo Finance historical quotes and snapshot data downloader written in Node.js.
 
