@@ -28,6 +28,7 @@ A curated list of amazingly awesome financial libraries, resources and shiny thi
 * [Chartscout](https://chartscout.io) - Real-time crypto chart pattern detection and automated trading alerts.
 * [Highstock](https://github.com/highslide-software/highstock-release)
 * [TradingView](https://www.tradingview.com/HTML5-stock-forex-bitcoin-charting-library/) - Stock Charting Library.
+* [iGotFomo](https://igotfomo.com) - AI-powered stock screener with convergence signals across 6,000+ stocks. Free tools include live market pulse, stock calculator, and embeddable ticker widget.
 
 ## Libraries
 
