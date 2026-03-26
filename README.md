@@ -67,6 +67,7 @@ A curated list of amazingly awesome financial libraries, resources and shiny thi
 * [china-stock](https://github.com/fuermosi777/china-stock) - Python module to get stock info from Chinese SH & SZ stock exchanges.
 * [edgartools](https://github.com/dgunning/edgartools) - SEC EDGAR data for quant strategies — fundamentals, institutional holdings (13F), insider transactions, and corporate events (8-K). Includes MCP server for AI workflows.
 * [fdnpy](https://github.com/financialdatanet/fdnpy) - A Python SDK for FinancialData.Net API, Real-time & Historical Stock Market Data.
+* [FlashAlpha](https://flashalpha.com) - Options analytics API providing real-time gamma exposure (GEX), delta, vanna, charm exposure, Black-Scholes greeks, implied volatility, 0DTE analytics, and volatility surfaces. Python SDK available via pip.
 * [fred](https://github.com/zachwill/fred) - Python wrapper for the St. Louis Fed's FRED API.
 * [fredapi](https://github.com/mortada/fredapi) - Python API for FRED (Federal Reserve Economic Data) and ALFRED (Archival FRED)
 * [googlefinance](https://github.com/hongtaocai/googlefinance) - Python module to get real-time stock data from Google Finance API.
