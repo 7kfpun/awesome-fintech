@@ -89,6 +89,7 @@ A curated list of amazingly awesome financial libraries, resources and shiny thi
 
 ### Others
 * [awesome-x402](https://github.com/xpaysh/awesome-x402) - A curated list of resources for the x402 HTTP 402 payment protocol, enabling programmatic cryptocurrency payments over HTTP using USDC.
+* [Coinnect](https://github.com/coinnect-dev/coinnect) - Open money transfer routing engine that finds the cheapest path across fiat, crypto, and P2P networks using Dijkstra over 29K+ live edges.
 * [payment-webfont](https://github.com/orlandotm/payment-webfont) - An SVG webfont full of main payment system icons.
 
 ## Books
