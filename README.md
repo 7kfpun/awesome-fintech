@@ -27,6 +27,7 @@ A curated list of amazingly awesome financial libraries, resources and shiny thi
 * [ChartIQ](https://www.chartiq.com/products/html5-charting-library/) - Advanced HTML5 Charting Library.
 * [Chartscout](https://chartscout.io) - Real-time crypto chart pattern detection and automated trading alerts.
 * [Highstock](https://github.com/highslide-software/highstock-release)
+* [PredScope](https://predscope.com) - Free prediction market analytics tool tracking 600+ live Polymarket events with real-time odds, market analysis, and 85+ guides.
 * [TradingView](https://www.tradingview.com/HTML5-stock-forex-bitcoin-charting-library/) - Stock Charting Library.
 
 ## Libraries
