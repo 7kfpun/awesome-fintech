@@ -4,6 +4,7 @@
 
 A curated list of amazingly awesome financial libraries, resources and shiny things.
 
+- [CalcFi](https://calcfi.app) - CalcFi - Free financial calculator suite with 500+ tools for personal finance, real estate, investing, crypto, and tax planning.
 - [Charts](#charts)
 - [Libraries](#libraries)
   - [C++](#c++)
