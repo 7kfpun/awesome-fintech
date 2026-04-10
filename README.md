@@ -69,6 +69,7 @@ A curated list of amazingly awesome financial libraries, resources and shiny thi
 * [fdnpy](https://github.com/financialdatanet/fdnpy) - A Python SDK for FinancialData.Net API, Real-time & Historical Stock Market Data.
 * [fred](https://github.com/zachwill/fred) - Python wrapper for the St. Louis Fed's FRED API.
 * [fredapi](https://github.com/mortada/fredapi) - Python API for FRED (Federal Reserve Economic Data) and ALFRED (Archival FRED)
+* [fxmacrodata](https://github.com/fxmacrodata/fxmacrodata) - Python SDK for macroeconomic indicators, central bank rates, FX spot rates, and release calendars covering 18+ currencies.
 * [googlefinance](https://github.com/hongtaocai/googlefinance) - Python module to get real-time stock data from Google Finance API.
 * [money](https://github.com/carlospalol/money) - Python money class with optional CLDR-backed locale-aware formatting and an extensible currency exchange solution.
 * [pyfolio](https://github.com/quantopian/pyfolio) - Portfolio and risk analytics in Python.
