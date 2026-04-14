@@ -76,6 +76,7 @@ A curated list of amazingly awesome financial libraries, resources and shiny thi
 * [yahoo-finance](https://github.com/lukaszbanasiak/yahoo-finance) - Python module to get stock data from Yahoo! Finance.
 * [ystockquote](https://github.com/cgoldberg/ystockquote) - Retrieve stock quote data from Yahoo Finance (Python module).
 * [zipline](https://github.com/quantopian/zipline) - Zipline, a Pythonic Algorithmic Trading Library.
+* [Helium MCP](https://github.com/connerlambden/helium-mcp) - AI-powered financial intelligence: ML options pricing, bull/bear analysis, balanced news synthesis, and media bias scoring across 3.2M+ articles. Free MCP API.
 
 ### R
 * [FredR](https://github.com/jcizel/FredR) - R Interface to Federal Reserve Economic Data API.
