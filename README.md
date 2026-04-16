@@ -90,6 +90,7 @@ A curated list of amazingly awesome financial libraries, resources and shiny thi
 ### Others
 * [awesome-x402](https://github.com/xpaysh/awesome-x402) - A curated list of resources for the x402 HTTP 402 payment protocol, enabling programmatic cryptocurrency payments over HTTP using USDC.
 * [payment-webfont](https://github.com/orlandotm/payment-webfont) - An SVG webfont full of main payment system icons.
+* [PolyMind](https://polyminds.netlify.app/) - Real-time Polymarket trading alerts with multi-AI analysis (Groq, Claude, Gemini). Track whale bets, volume spikes, and 12 signal types.
 
 ## Books
 * [Advanced Quantitative Finance with C++](http://shop.oreilly.com/product/9781782167228.do) - By Alonso Pena.
