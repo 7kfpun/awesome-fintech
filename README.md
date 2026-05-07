@@ -71,6 +71,7 @@ A curated list of amazingly awesome financial libraries, resources and shiny thi
 * [fredapi](https://github.com/mortada/fredapi) - Python API for FRED (Federal Reserve Economic Data) and ALFRED (Archival FRED)
 * [googlefinance](https://github.com/hongtaocai/googlefinance) - Python module to get real-time stock data from Google Finance API.
 * [money](https://github.com/carlospalol/money) - Python money class with optional CLDR-backed locale-aware formatting and an extensible currency exchange solution.
+* [oracle3](https://github.com/YichengYang-Ethan/oracle3) - Autonomous prediction-market trading agent for Kalshi, Polymarket, and Solana with a Wang-transform pricing engine calibrated on 291K+ resolved contracts, constraint-based arbitrage strategies, hierarchical MLE, and Kelly sizing.
 * [pyfolio](https://github.com/quantopian/pyfolio) - Portfolio and risk analytics in Python.
 * [ta-lib](https://github.com/mrjbq7/ta-lib) - Python wrapper for TA-Lib (http://ta-lib.org/).
 * [yahoo-finance](https://github.com/lukaszbanasiak/yahoo-finance) - Python module to get stock data from Yahoo! Finance.
