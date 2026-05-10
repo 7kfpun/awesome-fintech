@@ -63,6 +63,7 @@ A curated list of amazingly awesome financial libraries, resources and shiny thi
 * [yahoo-finance-query](https://github.com/dirkolbrich/yahoo-finance-query) - A PHP class to query the Yahoo Finance API.
 
 ### Python
+* [adanos](https://adanos.org/) - Python SDK for the Adanos Market Sentiment API, covering stock sentiment from Reddit, X / FinTwit, News, and Polymarket.
 * [alpha-vantage](https://github.com/RomelTorres/alpha_vantage) - Python wrapper to get stock, ETF, mutual fund, forex, and crypotocurrency information from [Alpha Vantage](https://www.alphavantage.co/), a Y Combinator backed fintech company. 
 * [china-stock](https://github.com/fuermosi777/china-stock) - Python module to get stock info from Chinese SH & SZ stock exchanges.
 * [edgartools](https://github.com/dgunning/edgartools) - SEC EDGAR data for quant strategies — fundamentals, institutional holdings (13F), insider transactions, and corporate events (8-K). Includes MCP server for AI workflows.
