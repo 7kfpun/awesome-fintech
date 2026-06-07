@@ -60,6 +60,7 @@ A curated list of amazingly awesome financial libraries, resources and shiny thi
 * [YahooFinance](https://github.com/bjornsallarp/YahooFinance) - iOS API for Yahoo finance. Stock symbol search, stock details and currency conversion.
 
 ### PHP
+* [camerpay-php-sdk](https://github.com/camerpay/php-sdk) - Official PHP SDK for [CamerPay](https://camerpay.biz), a Cameroon payment gateway supporting Mobile Money (Orange Money, MTN MoMo), cards and PayPal.
 * [yahoo-finance-query](https://github.com/dirkolbrich/yahoo-finance-query) - A PHP class to query the Yahoo Finance API.
 
 ### Python
