@@ -89,6 +89,7 @@ A curated list of amazingly awesome financial libraries, resources and shiny thi
 
 ### Others
 * [awesome-x402](https://github.com/xpaysh/awesome-x402) - A curated list of resources for the x402 HTTP 402 payment protocol, enabling programmatic cryptocurrency payments over HTTP using USDC.
+* [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring for Solana AI agent wallets via MCP. Verify agent identity before x402 USDC micropayments. Tools: `score_agent`, `preflight_check` (free), `get_trust_receipt` (HTTP 402 paid). Zero-install: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 * [payment-webfont](https://github.com/orlandotm/payment-webfont) - An SVG webfont full of main payment system icons.
 
 ## Books
