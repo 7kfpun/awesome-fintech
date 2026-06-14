@@ -28,6 +28,7 @@ A curated list of amazingly awesome financial libraries, resources and shiny thi
 * [Chartscout](https://chartscout.io) - Real-time crypto chart pattern detection and automated trading alerts.
 * [Highstock](https://github.com/highslide-software/highstock-release)
 * [TradingView](https://www.tradingview.com/HTML5-stock-forex-bitcoin-charting-library/) - Stock Charting Library.
+- [Helium MCP](https://github.com/connerlambden/helium-mcp) — Real-time news with 37-dimension bias scoring, ML options pricing, and live market data. [Interactive demo](https://connerlambden.github.io/helium-news-explorer/) · [REST API](https://heliumtrades.com/mcp-page/)
 
 ## Libraries
 
