@@ -47,7 +47,10 @@ A curated list of amazingly awesome financial libraries, resources and shiny thi
 * [accounting.js](https://github.com/openexchangerates/accounting.js) - A lightweight JavaScript library for number, money and currency formatting - fully localisable, zero dependencies.
 * [fredApi](https://github.com/Rleahy22/fredApi) - Javascript wrapper for FRED (Federal Reserve Economic Database) API.
 * [money.js](https://github.com/openexchangerates/money.js) - A tiny (1kb) javascript currency conversion library, for web & nodeJS.
+* [newyorkfed](https://github.com/moshejs/newyorkfed) - Typed, zero-dependency client for the NY Fed Markets Data API: SOFR/EFFR reference rates, SOFR averages and index, SOMA holdings; no API key.
 * [node-yahoo-finance](https://github.com/pilwon/node-yahoo-finance) - Yahoo Finance historical quotes and snapshot data downloader written in Node.js.
+* [treasury-fiscaldata](https://github.com/moshejs/treasury-fiscaldata) - Typed, zero-dependency client for the US Treasury FiscalData API (national debt, average interest rates, exchange rates); no API key.
+* [treasurydirect](https://github.com/moshejs/treasurydirect) - Typed, zero-dependency client for the US TreasuryDirect API: auction results, CUSIP lookups, Debt to the Penny; no API key.
 
 ### Lisp
 * [CommonLispFred](https://github.com/plkrueger/CommonLispFred) - Lisp Interface to Federal Reserve Economic Data (FRED®).
