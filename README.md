@@ -88,6 +88,7 @@ A curated list of amazingly awesome financial libraries, resources and shiny thi
 * [yahoo-finance](https://github.com/herval/yahoo-finance) - Ruby's Yahoo Finance Wrapper.
 
 ### Others
+* [AgentServices](https://github.com/vbkotecha/aiservices-api) - x402-paid crypto/market data API platform with MCP server (37 tools, 54 services). Real-time prices, on-chain analytics, and trading indicators for AI agents. On-chain USDC payments via HTTP 402 on Base.
 * [awesome-x402](https://github.com/xpaysh/awesome-x402) - A curated list of resources for the x402 HTTP 402 payment protocol, enabling programmatic cryptocurrency payments over HTTP using USDC.
 * [payment-webfont](https://github.com/orlandotm/payment-webfont) - An SVG webfont full of main payment system icons.
 
