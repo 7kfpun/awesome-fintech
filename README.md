@@ -82,6 +82,7 @@ A curated list of amazingly awesome financial libraries, resources and shiny thi
 
 ### Ruby
 * [finance](https://github.com/wkranec/finance) - A library for financial calculations in Ruby.
+* [finlight-client-ruby](https://github.com/callbk/finlight-client-ruby) - Ruby client for the finlight real-time financial news API.
 * [fred](https://github.com/phuphighter/fred) - Ruby wrapper for the St. Louis Federal Reserve Economic Data (FRED) API.
 * [fredapi](https://github.com/jonathanchrisp/fredapi) - A Ruby wrapper for the Federal Reserve Economic Data API (FRED).
 * [money](https://github.com/RubyMoney/money) - A Ruby Library for dealing with money and currency conversion.
