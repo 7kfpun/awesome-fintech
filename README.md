@@ -37,6 +37,7 @@ A curated list of amazingly awesome financial libraries, resources and shiny thi
 ### Go
 * [accounting](https://github.com/leekchan/accounting) - Money and currency formatting for golang.
 * [decimal](https://github.com/shopspring/decimal) - Arbitrary-precision fixed-point decimal numbers in go.
+* [finlight-client-go](https://github.com/callbk/finlight-client-go) - Go client for the finlight real-time financial news API.
 
 ### Java
 * [Coherent Logic FRED Client](http://www.coherentlogic.com/wordpress/?page_id=1362)
