@@ -60,6 +60,7 @@ A curated list of amazingly awesome financial libraries, resources and shiny thi
 * [YahooFinance](https://github.com/bjornsallarp/YahooFinance) - iOS API for Yahoo finance. Stock symbol search, stock details and currency conversion.
 
 ### PHP
+* [finlight-client-php](https://github.com/callbk/finlight-client-php) - PHP client for the finlight real-time financial news API.
 * [yahoo-finance-query](https://github.com/dirkolbrich/yahoo-finance-query) - A PHP class to query the Yahoo Finance API.
 
 ### Python
