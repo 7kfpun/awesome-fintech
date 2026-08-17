@@ -40,6 +40,7 @@ A curated list of amazingly awesome financial libraries, resources and shiny thi
 
 ### Java
 * [Coherent Logic FRED Client](http://www.coherentlogic.com/wordpress/?page_id=1362)
+* [finlight-client-java](https://github.com/callbk/finlight-client-java) - Java client for the finlight real-time financial news API.
 * [TA-Lib](https://github.com/BYVoid/TA-Lib) - Technical Analysis Library (Java Maven mirror).
 * [XChange](https://github.com/timmolter/XChange) - XChange is a Java library providing a streamlined API for interacting with 50+ Bitcoin and Altcoin exchanges providing a consistent interface for trading and accessing market data.
 
