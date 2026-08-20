@@ -48,6 +48,7 @@ A curated list of amazingly awesome financial libraries, resources and shiny thi
 * [fredApi](https://github.com/Rleahy22/fredApi) - Javascript wrapper for FRED (Federal Reserve Economic Database) API.
 * [money.js](https://github.com/openexchangerates/money.js) - A tiny (1kb) javascript currency conversion library, for web & nodeJS.
 * [node-yahoo-finance](https://github.com/pilwon/node-yahoo-finance) - Yahoo Finance historical quotes and snapshot data downloader written in Node.js.
+* [pakistan-mutual-funds-api](https://github.com/saadsalmankhan/pakistan-mutual-funds-api) - Self-hosted scraper and REST API for Pakistani mutual fund NAVs (net asset values) from MUFAP's public Fund Directory, written in Node.js.
 
 ### Lisp
 * [CommonLispFred](https://github.com/plkrueger/CommonLispFred) - Lisp Interface to Federal Reserve Economic Data (FRED®).
