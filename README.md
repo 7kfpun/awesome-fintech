@@ -37,6 +37,7 @@ A curated list of amazingly awesome financial libraries, resources and shiny thi
 ### Go
 * [accounting](https://github.com/leekchan/accounting) - Money and currency formatting for golang.
 * [decimal](https://github.com/shopspring/decimal) - Arbitrary-precision fixed-point decimal numbers in go.
+* [orderbook](https://github.com/intrepidkarthi/orderbook) - Embeddable limit order book and matching engine with integer-exact pricing, a single-writer core, and write-ahead-log crash recovery.
 
 ### Java
 * [Coherent Logic FRED Client](http://www.coherentlogic.com/wordpress/?page_id=1362)
