@@ -72,6 +72,7 @@ A curated list of amazingly awesome financial libraries, resources and shiny thi
 * [googlefinance](https://github.com/hongtaocai/googlefinance) - Python module to get real-time stock data from Google Finance API.
 * [money](https://github.com/carlospalol/money) - Python money class with optional CLDR-backed locale-aware formatting and an extensible currency exchange solution.
 * [pyfolio](https://github.com/quantopian/pyfolio) - Portfolio and risk analytics in Python.
+* [SEC Form 4 API](https://documenter.getpostman.com/view/57719789/2sBYAsyCVM) - Normalized SEC Form 4 insider-trading transaction data (buys, sells, holdings) as clean JSON, for insider-cluster screening and event-driven signals.
 * [ta-lib](https://github.com/mrjbq7/ta-lib) - Python wrapper for TA-Lib (http://ta-lib.org/).
 * [yahoo-finance](https://github.com/lukaszbanasiak/yahoo-finance) - Python module to get stock data from Yahoo! Finance.
 * [ystockquote](https://github.com/cgoldberg/ystockquote) - Retrieve stock quote data from Yahoo Finance (Python module).
