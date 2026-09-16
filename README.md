@@ -104,6 +104,7 @@ A curated list of amazingly awesome financial libraries, resources and shiny thi
 * [Mastering Python for Finance](http://shop.oreilly.com/product/9781784394516.do) - By James Ma Weiming.
 * [Mastering R for Quantitative Finance](http://shop.oreilly.com/product/9781783552078.do) - By Edina Berlinger, Ferenc Illes, Milan Badics, Adam Banai, Gergely Daróczi, Barbara Domotor, Gergely Gabler, Daniel Havran, Peter Juhasz, Istvan Margitai, Balazs Markus, Peter Medvegyev, Julia Molnar, Balazs Arpad Szucs, Agnes Tuza, Tamas Vadasz, Kata Váradi, Agnes Vidovics-Dancs.
 * [Python for Finance](http://shop.oreilly.com/product/0636920032441.do) - Analyze Big Financial Data, By Yves Hilpisch.
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 # License
 
