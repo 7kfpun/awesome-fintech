@@ -27,6 +27,7 @@ A curated list of amazingly awesome financial libraries, resources and shiny thi
 * [ChartIQ](https://www.chartiq.com/products/html5-charting-library/) - Advanced HTML5 Charting Library.
 * [Chartscout](https://chartscout.io) - Real-time crypto chart pattern detection and automated trading alerts.
 * [Highstock](https://github.com/highslide-software/highstock-release)
+* [OpenKline](https://github.com/rekurt/openkline) - TypeScript canvas library for candlestick charts, technical indicators and drawing tools.
 * [TradingView](https://www.tradingview.com/HTML5-stock-forex-bitcoin-charting-library/) - Stock Charting Library.
 
 ## Libraries
