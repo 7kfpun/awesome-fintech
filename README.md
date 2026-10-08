@@ -26,6 +26,7 @@ A curated list of amazingly awesome financial libraries, resources and shiny thi
 * [amCharts](http://www.amcharts.com/stock-chart/) - Interactive JavaScript Stock Chart.
 * [ChartIQ](https://www.chartiq.com/products/html5-charting-library/) - Advanced HTML5 Charting Library.
 * [Chartscout](https://chartscout.io) - Real-time crypto chart pattern detection and automated trading alerts.
+* [Depth](https://github.com/rekurt/depth) - Framework-independent TypeScript canvas library for cumulative order-book depth charts.
 * [Highstock](https://github.com/highslide-software/highstock-release)
 * [TradingView](https://www.tradingview.com/HTML5-stock-forex-bitcoin-charting-library/) - Stock Charting Library.
 
