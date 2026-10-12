@@ -53,6 +53,11 @@ A curated list of amazingly awesome financial libraries, resources and shiny thi
 * [CommonLispFred](https://github.com/plkrueger/CommonLispFred) - Lisp Interface to Federal Reserve Economic Data (FRED®).
 
 ### .Net
+* [CarmelNet](https://github.com/Thorium/CarmelNet) - Unofficial .NET client for the Carmel API, for US bank payments.
+* [ClearBank.Net](https://github.com/Thorium/ClearBank.Net) - Unofficial .NET client for the ClearBank API, for bank payments in the UK and EU.
+* [FSharp.Finance.Personal](https://github.com/simontreanor/FSharp.Finance.Personal) - F# library for personal finance calculations: APR, loan amortisation, repayment schedules and interest.
+* [FunStripe](https://github.com/simontreanor/FunStripe) - F# client for the Stripe API, with code generators for the model and requests.
+* [ProveSDK](https://github.com/Thorium/ProveSDK) - Unofficial .NET client for the Prove identity verification API (IDV, Pre-Fill, TrustScore).
 * [Xaye.Fred](https://github.com/cuda/Xaye.Fred) - .NET wrapper for the St. Louis Federal Reserve Economic Data (FRED) API.
 
 ### Objective-C
