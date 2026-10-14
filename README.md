@@ -72,6 +72,7 @@ A curated list of amazingly awesome financial libraries, resources and shiny thi
 * [googlefinance](https://github.com/hongtaocai/googlefinance) - Python module to get real-time stock data from Google Finance API.
 * [money](https://github.com/carlospalol/money) - Python money class with optional CLDR-backed locale-aware formatting and an extensible currency exchange solution.
 * [pyfolio](https://github.com/quantopian/pyfolio) - Portfolio and risk analytics in Python.
+* [roicai](https://github.com/roicai/roicai-python) - Python SDK for company fundamentals (financial statements, ratios) and earnings call transcripts for 68k+ companies from [roic.ai](https://www.roic.ai/).
 * [ta-lib](https://github.com/mrjbq7/ta-lib) - Python wrapper for TA-Lib (http://ta-lib.org/).
 * [yahoo-finance](https://github.com/lukaszbanasiak/yahoo-finance) - Python module to get stock data from Yahoo! Finance.
 * [ystockquote](https://github.com/cgoldberg/ystockquote) - Retrieve stock quote data from Yahoo Finance (Python module).
