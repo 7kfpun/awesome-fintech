@@ -89,6 +89,7 @@ A curated list of amazingly awesome financial libraries, resources and shiny thi
 
 ### Others
 * [awesome-x402](https://github.com/xpaysh/awesome-x402) - A curated list of resources for the x402 HTTP 402 payment protocol, enabling programmatic cryptocurrency payments over HTTP using USDC.
+* [Equibles](https://equibles.com) - Hosted MCP server and REST API for stock market data: SEC filings, financial statements, earnings call transcripts, insider and congressional trades, and 13F holdings. Free tier of 100 requests a day.
 * [payment-webfont](https://github.com/orlandotm/payment-webfont) - An SVG webfont full of main payment system icons.
 
 ## Books
