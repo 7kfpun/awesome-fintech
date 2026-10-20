@@ -64,6 +64,7 @@ A curated list of amazingly awesome financial libraries, resources and shiny thi
 
 ### Python
 * [alpha-vantage](https://github.com/RomelTorres/alpha_vantage) - Python wrapper to get stock, ETF, mutual fund, forex, and crypotocurrency information from [Alpha Vantage](https://www.alphavantage.co/), a Y Combinator backed fintech company. 
+* [capital-gains-toolkit](https://github.com/stockavg/capital-gains-toolkit) - Cost basis, FIFO lot matching, the 61-day wash-sale window, 0/15/20% long-term capital gains bands, the 3.8% net investment income tax and the Schedule D capital loss carryover worksheet.
 * [china-stock](https://github.com/fuermosi777/china-stock) - Python module to get stock info from Chinese SH & SZ stock exchanges.
 * [edgartools](https://github.com/dgunning/edgartools) - SEC EDGAR data for quant strategies — fundamentals, institutional holdings (13F), insider transactions, and corporate events (8-K). Includes MCP server for AI workflows.
 * [fdnpy](https://github.com/financialdatanet/fdnpy) - A Python SDK for FinancialData.Net API, Real-time & Historical Stock Market Data.
