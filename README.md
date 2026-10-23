@@ -70,6 +70,7 @@ A curated list of amazingly awesome financial libraries, resources and shiny thi
 * [fred](https://github.com/zachwill/fred) - Python wrapper for the St. Louis Fed's FRED API.
 * [fredapi](https://github.com/mortada/fredapi) - Python API for FRED (Federal Reserve Economic Data) and ALFRED (Archival FRED)
 * [googlefinance](https://github.com/hongtaocai/googlefinance) - Python module to get real-time stock data from Google Finance API.
+* [lumibot](https://github.com/Lumiwealth/lumibot) - Python framework for backtesting and live trading stocks, options, futures, forex and crypto with the same strategy code.
 * [money](https://github.com/carlospalol/money) - Python money class with optional CLDR-backed locale-aware formatting and an extensible currency exchange solution.
 * [pyfolio](https://github.com/quantopian/pyfolio) - Portfolio and risk analytics in Python.
 * [ta-lib](https://github.com/mrjbq7/ta-lib) - Python wrapper for TA-Lib (http://ta-lib.org/).
