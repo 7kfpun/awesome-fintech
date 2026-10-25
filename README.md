@@ -90,6 +90,7 @@ A curated list of amazingly awesome financial libraries, resources and shiny thi
 ### Others
 * [awesome-x402](https://github.com/xpaysh/awesome-x402) - A curated list of resources for the x402 HTTP 402 payment protocol, enabling programmatic cryptocurrency payments over HTTP using USDC.
 * [payment-webfont](https://github.com/orlandotm/payment-webfont) - An SVG webfont full of main payment system icons.
+* [Mode VC Founder Capital & Equity Workbench](https://modevc.com/tools/) - 18 free browser-side startup calculators for founders: SAFE & option pool dilution, 409A strike price, ISO vs. NSO AMT tax, Venture Debt vs. Equity, ESOP grants, and LLM/GPU unit economics.
 
 ## Books
 * [Advanced Quantitative Finance with C++](http://shop.oreilly.com/product/9781782167228.do) - By Alonso Pena.
