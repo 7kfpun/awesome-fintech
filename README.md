@@ -63,7 +63,8 @@ A curated list of amazingly awesome financial libraries, resources and shiny thi
 * [yahoo-finance-query](https://github.com/dirkolbrich/yahoo-finance-query) - A PHP class to query the Yahoo Finance API.
 
 ### Python
-* [alpha-vantage](https://github.com/RomelTorres/alpha_vantage) - Python wrapper to get stock, ETF, mutual fund, forex, and crypotocurrency information from [Alpha Vantage](https://www.alphavantage.co/), a Y Combinator backed fintech company. 
+* [alpha-vantage](https://github.com/RomelTorres/alpha_vantage) - Python wrapper to get stock, ETF, mutual fund, forex, and crypotocurrency information from [Alpha Vantage](https://www.alphavantage.co/), a Y Combinator backed fintech company.
+* [bitculator-python-sdk](https://github.com/Bitculator/bitculator-python-sdk) - Typed Python client for the Bitculator crypto market data API.
 * [china-stock](https://github.com/fuermosi777/china-stock) - Python module to get stock info from Chinese SH & SZ stock exchanges.
 * [edgartools](https://github.com/dgunning/edgartools) - SEC EDGAR data for quant strategies — fundamentals, institutional holdings (13F), insider transactions, and corporate events (8-K). Includes MCP server for AI workflows.
 * [fdnpy](https://github.com/financialdatanet/fdnpy) - A Python SDK for FinancialData.Net API, Real-time & Historical Stock Market Data.
