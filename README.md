@@ -93,6 +93,7 @@ A curated list of amazingly awesome financial libraries, resources and shiny thi
 
 ## Books
 * [Advanced Quantitative Finance with C++](http://shop.oreilly.com/product/9781782167228.do) - By Alonso Pena.
+* [Anatomy of a Payment](https://digbijoylabs.github.io/anatomy-of-a-payment/) - Interactive Apache-2.0 payment-rail workbench and [CC-BY-4.0 paper](https://doi.org/10.5281/zenodo.24444210) covering authorization, clearing, settlement finality, ISO 20022, and double-entry ledger invariants.
 * [Build Financial Software with Generative AI](https://www.manning.com/books/build-financial-software-with-generative-ai?ar=false&lpse=B&) - By Chris Kardell and Mark Brouwer.
 * [DevOps for Finance](http://www.oreilly.com/webops-perf/free/devops-for-finance.csp) - Reducing Risk through Continuous Delivery, by Jim Bird.
 * [F# for Quantitative Finance](http://shop.oreilly.com/product/9781782164623.do) - By Johan Astborg.
