@@ -23,6 +23,7 @@ A curated list of amazingly awesome financial libraries, resources and shiny thi
 ---
 
 ## Charts
+* [247heatmap](https://github.com/247heatmap/247heatmap-widget) - Embeddable HTML iframe, Web Component, and React component for live stock, ETF, and crypto heatmaps.
 * [amCharts](http://www.amcharts.com/stock-chart/) - Interactive JavaScript Stock Chart.
 * [ChartIQ](https://www.chartiq.com/products/html5-charting-library/) - Advanced HTML5 Charting Library.
 * [Chartscout](https://chartscout.io) - Real-time crypto chart pattern detection and automated trading alerts.
