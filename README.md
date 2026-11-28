@@ -26,6 +26,7 @@ A curated list of amazingly awesome financial libraries, resources and shiny thi
 * [amCharts](http://www.amcharts.com/stock-chart/) - Interactive JavaScript Stock Chart.
 * [ChartIQ](https://www.chartiq.com/products/html5-charting-library/) - Advanced HTML5 Charting Library.
 * [Chartscout](https://chartscout.io) - Real-time crypto chart pattern detection and automated trading alerts.
+* [GammaPlot](https://gammaplot.com/) - Gamma exposure (GEX) charts for SPY, QQQ and SPX with the call wall, put wall and gamma flip on the price chart.
 * [Highstock](https://github.com/highslide-software/highstock-release)
 * [TradingView](https://www.tradingview.com/HTML5-stock-forex-bitcoin-charting-library/) - Stock Charting Library.
 
